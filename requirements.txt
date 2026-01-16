@@ -1,0 +1,8 @@
+# Core API
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# Scraping Dependencies
+selenium
+webdriver-manager
